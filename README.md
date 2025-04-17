@@ -19,7 +19,7 @@ Hi there! I'm Justin Angelo Perez, a passionate developer and lifelong learner. 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinangeloperez327&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
-- Stars-Align (https://stars-align.vercel.app/): Job Board Platform App.
+- [Stars-Align](https://stars-align.vercel.app/): Job Board Platform App.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/justrax/)
