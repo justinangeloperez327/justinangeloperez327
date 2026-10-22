@@ -1,84 +1,98 @@
 # Hi, I'm Justin Angelo Perez 👋
 
-Software developer focused on building **web applications, developer tools, frameworks, and clean application architectures**.
+Software developer focused on building **web applications, developer tools, frameworks, and maintainable software architectures**.
 
-My main background is in **PHP/Laravel and JavaScript/TypeScript**, while I’m currently expanding deeper into **C#/.NET, Rust, C++, compilers, transpilers, and programming language design**.
+My main background is in **PHP/Laravel and JavaScript/TypeScript**, while I continue expanding my experience in **C#/.NET, Rust, C++, systems programming, and compiler development**.
 
-I enjoy understanding not only how applications are built, but also how the frameworks and languages behind them work.
+I enjoy exploring how software works beyond the application layer — from designing APIs and database systems to understanding the frameworks, compilers, and runtimes that power modern applications.
 
----
-
-## 🚀 What I'm Working On
-
-### 🦀 Berserk
-
-A web framework written in **Rust**, designed around expressive APIs, strong performance, minimal dependencies, and a beginner-friendly developer experience.
-
-* Rust
-* API-first architecture
-* Routing and HTTP abstractions
-* Validation
-* Authentication
-* Database integrations
-* Background jobs and events
-* OpenAPI support
-* **Claw ORM**
+My goal is to build software that balances **performance, simplicity, maintainability, and developer experience**.
 
 ---
 
-### ⚔️ Gungnir
+## 🚀 Featured Project
 
-A **C++ web framework** exploring how modern web-development conventions can be brought to C++ without exposing unnecessary complexity to application developers.
+### ⚔️ [Gungnir](https://github.com/justinangeloperez327/gungnir)
 
-Areas of development include:
+**An expressive web framework built in C++.**
 
-* HTTP routing
-* Asynchronous runtime
-* ORM and relationships
-* Dependency injection
-* Authentication and authorization
-* Middleware
-* Sessions and cookies
-* Validation
-* Testing
-* Developer tooling
+Gungnir explores how modern web-development conventions can be brought into C++ while maintaining strong performance and a beginner-friendly development experience.
 
----
+Inspired by the productivity of modern web frameworks, Gungnir aims to make C++ web application development more accessible without sacrificing its systems-level capabilities.
 
-### 🍃 Densleaf
+**Core Areas of Development**
 
-An experimental programming language built in **Rust**.
+- HTTP routing and request handling
+- Asynchronous programming and runtime
+- Database integration, ORM, and relationships
+- Authentication and authorization
+- Middleware and dependency injection
+- Sessions, cookies, and validation
+- Controllers, models, and migrations
+- Events, listeners, and notifications
+- Developer CLI and tooling
+- Testing and debugging
+- Compiler, lexer, parser, and transpiler architecture
 
-Densleaf explores application-oriented language design with first-class concepts such as:
+**Technologies:** C++, CMake, Compiler Design, HTTP, SQL
 
-```text
-model
-controller
-middleware
-migration
-policy
-event
-listener
-notification
-mail
-```
+**Related Projects**
 
-The goal is to design syntax around **developer understanding and intent**, rather than simply reducing the number of lines of code.
+- [Gungnir Documentation](https://github.com/justinangeloperez327/astro-gungnir)
+- [Gungnir Website](https://github.com/justinangeloperez327/next-gungnir)
 
 ---
 
-### 🏗️ Construction Management
+## 💻 Other Projects
 
-A full-stack construction project management application built with **.NET and Blazor**, following Clean Architecture principles.
+### 🏗️ [.NET Construction Management](https://github.com/justinangeloperez327/dot-net-construction-management)
 
-Focus areas include:
+A construction management application built with **C#, ASP.NET Core, and Blazor**, following Clean Architecture principles.
 
-* Project management
-* Construction progress tracking
-* Users and permissions
-* Domain-driven application structure
-* Modular business features
-* Maintainable enterprise architecture
+Focuses on project management, construction progress tracking, domain modeling, permissions, and maintainable enterprise application design.
+
+### 📋 [Project Tracker](https://github.com/justinangeloperez327/next-project-tracker-giffin)
+
+A construction project tracking application built with **Next.js, TypeScript, Prisma, and PostgreSQL**.
+
+Designed for managing construction projects, work categories, installation milestones, progress records, and project information.
+
+### 🗂️ [Next Kanban](https://github.com/justinangeloperez327/next-kanban)
+
+A collaborative project management application exploring real-time communication and interactive task organization.
+
+**Technologies:** Next.js, React, TypeScript, WebSockets, Express, PostgreSQL
+
+### 💰 [Budget Tracker](https://github.com/justinangeloperez327/next-budget-tracker)
+
+A personal finance management application designed to track budgets, actual expenses, savings, transfers, and financial activity.
+
+Focuses on structured financial records, usability, and reporting.
+
+### 🌟 [Stars Align](https://github.com/justinangeloperez327/next-stars-align)
+
+A job board platform built as a full-stack web application.
+
+Designed around job discovery, application workflows, and connecting job seekers with employment opportunities.
+
+**Live Application:** [stars-align.vercel.app](https://stars-align.vercel.app/)
+
+### 📦 Inventory Management System
+
+A full-stack inventory management project with separate frontend and backend applications.
+
+- [NestJS Backend](https://github.com/justinangeloperez327/nest-js-inventory-system) — REST APIs, database integration, and business logic.
+- [Angular Frontend](https://github.com/justinangeloperez327/angular-inventory-system) — Responsive interfaces and inventory workflows.
+
+### 🎮 [Gaming Communication Platform](https://github.com/justinangeloperez327/gaming-communication-platform)
+
+A desktop communication application exploring low-resource voice communication, screen sharing, and real-time collaboration.
+
+**Technologies:** C++, Qt, Rust, LiveKit
+
+### 🎬 [Movie Maker](https://github.com/justinangeloperez327/movie-maker)
+
+An experimental desktop video-editing application exploring native application development and multimedia processing with Rust and C++.
 
 ---
 
@@ -86,136 +100,81 @@ Focus areas include:
 
 ### Languages
 
-```text
-PHP
-C#
-Rust
-C++
-JavaScript
-TypeScript
-SQL
-```
+`PHP` `C#` `Rust` `C++` `JavaScript` `TypeScript` `SQL`
 
-### Backend
+### Backend Development
 
-```text
-Laravel
-.NET / ASP.NET Core
-Node.js
-Express.js
-```
+`Laravel` `ASP.NET Core` `.NET` `Node.js` `Express.js` `NestJS`
 
-### Frontend
+### Frontend Development
 
-```text
-React
-Next.js
-Blazor
-Vue.js
-Inertia.js
-Tailwind CSS
-shadcn/ui
-Livewire
-Filament
-Bootstrap
-```
+`React` `Next.js` `Angular` `Blazor` `Vue.js` `Inertia.js` `Livewire` `Filament`
+
+### UI & Styling
+
+`Tailwind CSS` `shadcn/ui` `Bootstrap` `HTML` `CSS`
 
 ### Databases
 
-```text
-PostgreSQL
-MySQL
-Microsoft SQL Server
-SQLite
-MongoDB
-```
+`PostgreSQL` `MySQL` `Microsoft SQL Server` `SQLite` `MongoDB`
 
 ### Development & Infrastructure
 
-```text
-Git
-GitHub
-Docker
-REST APIs
-Clean Architecture
-Modular Monolith Architecture
-CI/CD
-```
+`Git` `GitHub` `Docker` `REST APIs` `CI/CD` `GitHub Actions` `CMake`
+
+### Architecture & Engineering
+
+`Clean Architecture` `Modular Monolith` `API Design` `ORM Design` `Compiler Design` `Asynchronous Programming`
 
 ---
 
 ## 🧠 Current Areas of Exploration
 
-I'm currently spending more time studying and building around:
+I'm continuously learning and building around:
 
-* **C# and .NET**
-* **Clean Architecture**
-* **Rust systems programming**
-* **C++ application architecture**
-* **ORM design**
-* **Compiler and transpiler development**
-* **Lexer and parser design**
-* **Programming language design**
-* **Framework architecture**
-* **Developer experience**
-* **API design**
+- **C#/.NET** — Enterprise applications, Clean Architecture, and backend engineering.
+- **C++** — Framework architecture, asynchronous programming, and native applications.
+- **Rust** — Systems programming, performance, and developer tooling.
+- **Compiler Development** — Lexers, parsers, abstract syntax trees, and transpilation.
+- **Database Engineering** — ORM design, relationships, queries, and database abstraction.
+- **Full-Stack Development** — Modern frontend frameworks, APIs, and maintainable architectures.
+- **Developer Experience** — Designing expressive interfaces, practical tooling, and easier development workflows.
+- **Software Performance** — Efficient resource utilization, concurrency, and runtime behavior.
 
-A recurring question behind many of my projects is:
+A recurring question behind my work is:
 
-> How can we make powerful software tools easier for developers to understand and use?
+> How can we make powerful software tools easier for developers to understand, build with, and maintain?
 
 ---
 
-## 🌟 Selected Projects
+## 📊 GitHub Statistics
 
-### [Berserk](https://github.com/justinangeloperez327/berserk)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinangeloperez327&show_icons=true&theme=github_dark)
 
-Rust web framework focused on expressive APIs, performance, and developer experience.
-
-### Gungnir
-
-Experimental C++ web framework exploring modern web application development and framework design.
-
-### Densleaf
-
-Experimental programming language and compiler project built with Rust.
-
-### [Stars Align](https://stars-align.vercel.app/)
-
-Job board platform built as a full-stack web application.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinangeloperez327&layout=compact&theme=github_dark)
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Open to Collaboration
 
-![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinangeloperez327\&show_icons=true\&theme=github_dark)
+I'm particularly interested in collaborating on projects involving:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinangeloperez327\&layout=compact\&theme=github_dark)
-
----
-
-## 🤝 Collaboration
-
-I'm particularly interested in projects involving:
-
-* Web application architecture
-* Laravel
-* .NET
-* Rust
-* Framework development
-* Developer tooling
-* Compilers and programming languages
-* Open-source software
+- Web application and API development
+- PHP/Laravel and C#/.NET
+- Rust and C++ development
+- Web framework architecture
+- Developer tools and infrastructure
+- Compiler engineering
+- Open-source software
+- Performance optimization and maintainable systems
 
 ---
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/justrax](https://www.linkedin.com/in/justrax/)
-* **Email:** [justinangeloperez327@gmail.com](mailto:justinangeloperez327@gmail.com)
-* **GitHub:** [github.com/justinangeloperez327](https://github.com/justinangeloperez327)
+- **GitHub:** [github.com/justinangeloperez327](https://github.com/justinangeloperez327)
+- **LinkedIn:** [linkedin.com/in/justrax](https://www.linkedin.com/in/justrax/)
+- **Email:** [justinangeloperez327@gmail.com](mailto:justinangeloperez327@gmail.com)
+> Building a framework is teaching me how languages, runtimes, compilers, databases, and developer tools work underneath them.
 
----
-
-> Building applications taught me how to use frameworks.
-> Building frameworks is teaching me how languages, runtimes, databases, and developer tools work underneath them.
+**Always learning. Always building.**
