@@ -1,27 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Justin Angelo Perez — Software Developer</title>
-  <desc id="desc">A minimalist navy and blue banner for a full-stack developer working on frameworks, developer tools, and software architecture.</desc>
+  <desc id="desc">A green and purple developer banner with a clean premium look.</desc>
+
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#071B33"/>
-      <stop offset="100%" stop-color="#12345D"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F3D2E"/>
+      <stop offset="55%" stop-color="#153B39"/>
+      <stop offset="100%" stop-color="#2E1065"/>
     </linearGradient>
+
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2389DA"/>
-      <stop offset="100%" stop-color="#79C7FF"/>
+      <stop offset="0%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="280" fill="url(#background)"/>
-  <rect width="7" height="280" fill="url(#accent)"/>
-  <path d="M30 32H1170M30 248H1170" stroke="#6FA9D7" stroke-opacity=".18" stroke-width="1"/>
-  <text x="72" y="65" fill="#83BDE8" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4" font-weight="700">SOFTWARE ENGINEER  /  OPEN SOURCE</text>
-  <text x="68" y="137" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700">Justin Angelo Perez</text>
-  <rect x="72" y="160" width="82" height="5" fill="url(#accent)"/>
-  <text x="72" y="202" fill="#BDCEE2" font-family="Arial, Helvetica, sans-serif" font-size="21">Full-stack products  •  frameworks  •  developer tools</text>
-  <text x="72" y="235" fill="#80A9CE" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.4">PERFORMANCE   /   SIMPLICITY   /   MAINTAINABILITY</text>
-  <rect x="977" y="68" width="154" height="142" fill="#0B2545" stroke="#387BAE" stroke-width="1.6"/>
-  <path d="M1016 108l-18 20 18 20M1092 108l18 20-18 20" fill="none" stroke="#77C6FF" stroke-width="6" stroke-linejoin="miter" stroke-linecap="square"/>
-  <path d="M1065 101l-23 54" stroke="#E7F5FF" stroke-width="5" stroke-linecap="square"/>
-  <rect x="993" y="185" width="48" height="4" fill="#2389DA"/>
-  <rect x="1050" y="185" width="67" height="4" fill="#194873"/>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="280" fill="url(#accent)"/>
+
+  <path d="M40 34H1160" stroke="#C4B5FD" stroke-opacity="0.18" stroke-width="1"/>
+  <path d="M40 246H1160" stroke="#22C55E" stroke-opacity="0.16" stroke-width="1"/>
+
+  <circle cx="1040" cy="74" r="44" fill="#22C55E" fill-opacity="0.08"/>
+  <circle cx="1095" cy="164" r="58" fill="#C4B5FD" fill-opacity="0.08"/>
+  <circle cx="980" cy="198" r="30" fill="#6D28D9" fill-opacity="0.08"/>
+
+  <text x="72" y="64" fill="#A7F3D0" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4" font-weight="700">
+    SOFTWARE ENGINEER / OPEN SOURCE
+  </text>
+
+  <text x="68" y="136" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700">
+    Justin Angelo Perez
+  </text>
+
+  <rect x="72" y="158" width="104" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="72" y="200" fill="#E9FDF2" font-family="Arial, Helvetica, sans-serif" font-size="21">
+    Full-stack products • frameworks • developer tools
+  </text>
+
+  <text x="72" y="233" fill="#D8CCFF" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.3">
+    PERFORMANCE / SIMPLICITY / MAINTAINABILITY
+  </text>
+
+  <rect x="968" y="66" width="160" height="146" rx="12" fill="#0B1F1A" fill-opacity="0.55" stroke="#8B5CF6" stroke-opacity="0.45" stroke-width="1.5"/>
+
+  <path d="M1008 110l-20 20 20 20" fill="none" stroke="#22C55E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1088 110l20 20-20 20" fill="none" stroke="#C4B5FD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1060 102l-22 56" stroke="#F8FAFC" stroke-width="5" stroke-linecap="round"/>
+
+  <rect x="992" y="184" width="42" height="4" rx="2" fill="#22C55E"/>
+  <rect x="1042" y="184" width="34" height="4" rx="2" fill="#6D28D9"/>
+  <rect x="1082" y="184" width="30" height="4" rx="2" fill="#C4B5FD"/>
 </svg>
