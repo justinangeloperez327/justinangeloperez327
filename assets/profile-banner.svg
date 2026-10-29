@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Justin Angelo Perez — Software Developer</title>
+  <desc id="desc">A minimalist navy and blue banner for a full-stack developer working on frameworks, developer tools, and software architecture.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071B33"/>
+      <stop offset="100%" stop-color="#12345D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2389DA"/>
+      <stop offset="100%" stop-color="#79C7FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#background)"/>
+  <rect width="7" height="280" fill="url(#accent)"/>
+  <path d="M30 32H1170M30 248H1170" stroke="#6FA9D7" stroke-opacity=".18" stroke-width="1"/>
+  <text x="72" y="65" fill="#83BDE8" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4" font-weight="700">SOFTWARE ENGINEER  /  OPEN SOURCE</text>
+  <text x="68" y="137" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700">Justin Angelo Perez</text>
+  <rect x="72" y="160" width="82" height="5" fill="url(#accent)"/>
+  <text x="72" y="202" fill="#BDCEE2" font-family="Arial, Helvetica, sans-serif" font-size="21">Full-stack products  •  frameworks  •  developer tools</text>
+  <text x="72" y="235" fill="#80A9CE" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.4">PERFORMANCE   /   SIMPLICITY   /   MAINTAINABILITY</text>
+  <rect x="977" y="68" width="154" height="142" fill="#0B2545" stroke="#387BAE" stroke-width="1.6"/>
+  <path d="M1016 108l-18 20 18 20M1092 108l18 20-18 20" fill="none" stroke="#77C6FF" stroke-width="6" stroke-linejoin="miter" stroke-linecap="square"/>
+  <path d="M1065 101l-23 54" stroke="#E7F5FF" stroke-width="5" stroke-linecap="square"/>
+  <rect x="993" y="185" width="48" height="4" fill="#2389DA"/>
+  <rect x="1050" y="185" width="67" height="4" fill="#194873"/>
+</svg>
